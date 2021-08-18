@@ -1,0 +1,2 @@
+# maniya
+common aspects
